@@ -1,0 +1,2 @@
+# The creation or any changes in this file (or any file) should trigger a job in Jenkins
+# Currently it is set to SCM - poll for any changes in GIT
